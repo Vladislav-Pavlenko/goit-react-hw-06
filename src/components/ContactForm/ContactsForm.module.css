@@ -1,0 +1,20 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 30px;
+  padding: 10px;
+  border: 1px solid white;
+  max-width: 200px;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.form_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.form_btn {
+  max-width: 150px;
+}

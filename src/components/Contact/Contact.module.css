@@ -1,0 +1,16 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.contact_container {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+.contact_btn {
+  max-height: 30px;
+  max-width: 80px;
+}
